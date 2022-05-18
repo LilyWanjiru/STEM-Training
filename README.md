@@ -3,6 +3,6 @@
 Learning markdown
 Installing python
 ## Day two
-Cementing previous lesson
-Commenting
-Used signs
+Cementing previous lesson,
+Commenting,
+Some operations,
