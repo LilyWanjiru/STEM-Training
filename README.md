@@ -20,3 +20,5 @@ For loops
 ## Day Seven
 Types of Lists
 Dictionaries
+## Day Eight
+KUCCPS application
