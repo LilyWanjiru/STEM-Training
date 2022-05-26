@@ -19,6 +19,8 @@ Check up on complex calc
 For loops
 ## Day Seven
 Types of Lists
-Dictionaries
+Sets,Tuples,Lists
 ## Day Eight
 KUCCPS application
+## Day Nine
+Dictionaries
