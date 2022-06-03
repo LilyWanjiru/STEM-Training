@@ -33,3 +33,5 @@ Packages
 PYPI
 ## Day Twelve 
 Making a Calc with GUI
+## Day Thirteen
+Exception handling, String manipulation
